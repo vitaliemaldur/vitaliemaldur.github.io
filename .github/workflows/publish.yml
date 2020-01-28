@@ -1,0 +1,27 @@
+name: Publish
+
+on:
+  push:
+    branches: 
+      - master
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v1
+    - name: Use Node.js 12.x
+      uses: actions/setup-node@v1
+      with:
+        node-version: '12.x'
+    - name: Gatsby Publish
+      uses: enriikke/gatsby-gh-pages-action@v2.1.1
+      with:
+        # A personal access token needed to push your site after it has been built.
+        access-token: ${{ secrets.ACCESS_TOKEN }}
+        # The branch expected by GitHub to have the static files needed for your site.
+        deploy-branch: gh-pages # optional, default is master
+        # Additional arguments that get passed to `gatsby build`.
+        gatsby-args: --prefix-paths # optional, default is 
