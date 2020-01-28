@@ -19,7 +19,6 @@ const useSiteMetadata = () => {
                 telegram
                 instagram
                 email
-                rss
                 vkontakte
                 line
                 gitlab
@@ -27,6 +26,8 @@ const useSiteMetadata = () => {
                 codepen
                 youtube
                 soundcloud
+                devto
+                rss
               }
             }
             menu {

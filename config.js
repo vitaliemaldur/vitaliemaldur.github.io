@@ -1,14 +1,14 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://vitalie.xyz',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Vitalie M. personal blog',
+  subtitle: 'Thoughts on software engineering and personal development.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'XXXX',
   useKatex: false,
   menu: [
     {
@@ -25,19 +25,20 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Vitalie Maldur',
+    photo: '/avatar.png',
+    bio: 'Thoughts on software engineering and personal development',
     contacts: {
       email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '',
+      facebook: '',
+      telegram: '',
+      twitter: 'vitaliemaldur',
+      github: 'vitaliemaldur',
+      rss: 'https://vitalie.xyz/rss.xml',
+      devto: 'vitaliemaldur',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'vitaliemaldur',
+      instagram: 'vitaliemaldur',
       line: '',
       gitlab: '',
       weibo: '',

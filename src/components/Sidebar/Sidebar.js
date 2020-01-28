@@ -13,7 +13,7 @@ type Props = {
 
 const Sidebar = ({ isIndex }: Props) => {
   const { author, copyright, menu } = useSiteMetadata();
-
+  console.log('######', author.contacts);
   return (
     <div className={styles['sidebar']}>
       <div className={styles['sidebar__inner']}>
