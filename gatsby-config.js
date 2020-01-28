@@ -144,6 +144,10 @@ module.exports = {
         trackingIds: [siteConfig.googleAnalyticsId],
         pluginConfig: {
           head: true,
+          respectDNT: true
+        },
+        gtagConfig: {
+          anonymize_ip: true,
         },
       },
     },
