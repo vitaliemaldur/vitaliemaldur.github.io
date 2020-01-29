@@ -15,7 +15,7 @@ yarn develop # -> http://localhost:8000
 To deploy the changes to [vitalie.xyz](https://vitalie.xyz) webiste, just push the changes to the `master` branch and the `deploy` action configured will take care of the rest.
 
 ## Adding new posts or pages
-To add a new post add a new `markdown` file to the folder `/content/posts`. Frontmatter fields to be considered are:
+To add a new post, add a new `markdown` file to the folder `/content/posts`. Frontmatter fields to be considered are:
 ```
 title: Title of the post
 date: "2016-09-01T23:46:37.121Z"
@@ -30,7 +30,7 @@ description: "some description that will appear on the index page"
 socialImage: "/media/image-2.jpg"
 ```
 
-To add a new page add a new `markdown` file to the folder `/content/pages`. Frontmatter fields to be considered are:
+To add a new page, add a new `markdown` file to the folder `/content/pages`. Frontmatter fields to be considered are:
 ```
 title: "Page title"
 template: "page"
