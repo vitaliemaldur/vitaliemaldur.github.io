@@ -1,12 +1,19 @@
 ---
 template: page
 title: About me
-socialImage: "/media/image-4.jpg"
+socialImage: "/media/overcoming.png"
 ---
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+Hello, my name is Vitalie. I am a full-stack software engineer based in Bucharest (for the moment). I include in my work
+a mix of passion, knowledge, responsibility, and commitment, to be as helpful as I can for the teams/projects/products.
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+### Some facts about me.
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+- I was born in the city [Cahul, Republic of Moldova](https://en.wikipedia.org/wiki/Cahul).
+Probably you never heard of it, but I am very proud of my roots.
+- I like sports. I played basketball for more than 11 years on various levels.
+I participate in marathons, even though I don't like the training. I learned
+to swim at 24 years old.
+- I am really into personal development. I read a lot on this subject in order
+to be better at what I do and to be a better human in general.
+- I know three foreign languages English, French, and Russian.
